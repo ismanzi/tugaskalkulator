@@ -38,6 +38,7 @@ if (input2=="*"){
     var hasil = (Number(bil1)*(Number(bil2)))
   console.log("Hasilnya adalah " + hasil)
 }
+// operasi menghitung dengan menggunakan perkalian
 
 if (input2=="%"){
     var bil1= input.question("masukkan angka = ");
@@ -47,4 +48,5 @@ if (input2=="%"){
     var hasil = Number(intbil1)%Number(bil2)
    console.log("Hasilnya adalah " + hasil)
 }
+// operasi menghitung dengan menggunakan modulus
     
