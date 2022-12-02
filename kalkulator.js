@@ -11,6 +11,8 @@ if (input2=="+"){
     var hasil = (Number(bil1)+(Number(bil2)))
  console.log("Hasilnya adalah " + hasil);
 }
+// operasi menghitung dengan menggunakan penjumlahan
+
 
 if (input2=="-"){
     var bil1= input.question("masukkan angka =");
@@ -20,6 +22,8 @@ if (input2=="-"){
     var hasil = (Number(bil1)-(Number(bil2)))
  console.log("Hasilnya adalah" + hasil);
 }
+// operasi menghitung dengan menggunakan pengurangan
+
 
 if (input2=="/"){
     var bil1= input.question("masukkan angka =");
@@ -29,6 +33,8 @@ if (input2=="/"){
     var hasil = (Number(bil1)/(Number(bil2)))
   console.log("Hasilnya adalah " + hasil)
 }
+// operasi menghitung dengan menggunakan pembagian
+
 
 if (input2=="*"){
     var bil1= input.question("masukkan angka =");
