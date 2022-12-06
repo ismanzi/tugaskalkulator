@@ -1,4 +1,5 @@
 var input=require('readline-sync');
+console.log (" Cara Kerja Kalkulator Dalam JavaScript ");
 console.log (" Enter " + " + " + " - " + " * " + " or " + " / ")
 const input2 = input.question("pilihlah salah satu =")
 console.log("..........................");
